@@ -11,5 +11,5 @@ It also has builtin MAC parsing which shows the brands of the devices on the net
 
 There are two ways in which you can use SharkScan
 
- 1. Run the python file(all requirements are pre-installed).
+ 1. Run the python file(all requirements are pre-installed except for OUILookup).
  2. Run the .exe file in the releases tab(https://github.com/sahal-mulki/sharkscan/releases). Windows SmartScan detects my compiled program as a virus even though it isn't. Also the .exe  file takes some time to run.
